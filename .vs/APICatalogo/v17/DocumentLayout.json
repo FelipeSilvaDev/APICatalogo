@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\ProjetosFelipe\\APICatalogo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\migrations\\20251110190838_ajustetabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\migrations\\20251110190838_ajustetabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\migrations\\20251106191410_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\migrations\\20251106191410_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8553790-180E-490C-BB44-23AFBCA29808}|APICatalogo\\APICatalogo.csproj|c:\\projetosfelipe\\apicatalogo\\apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,65 +66,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251110190838_AjusteTabelas.cs",
+              "DocumentMoniker": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Migrations\\20251110190838_AjusteTabelas.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Migrations\\20251110190838_AjusteTabelas.cs",
+              "ToolTip": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Migrations\\20251110190838_AjusteTabelas.cs",
+              "RelativeToolTip": "APICatalogo\\Migrations\\20251110190838_AjusteTabelas.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:09:44.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APICatalogo\\appsettings.Development.json",
+              "ToolTip": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\appsettings.Development.json",
+              "RelativeToolTip": "APICatalogo\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T14:33:41.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251106191410_MigracaoInicial.cs",
+              "DocumentMoniker": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Migrations\\20251106191410_MigracaoInicial.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Migrations\\20251106191410_MigracaoInicial.cs",
+              "ToolTip": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Migrations\\20251106191410_MigracaoInicial.cs",
+              "RelativeToolTip": "APICatalogo\\Migrations\\20251106191410_MigracaoInicial.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:17:59.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\appsettings.json",
               "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
               "ToolTip": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\appsettings.json",
               "RelativeToolTip": "APICatalogo\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-04T13:20:01.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
               "RelativeToolTip": "APICatalogo\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T18:06:12.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Models\\Produto.cs",
               "ToolTip": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
               "RelativeToolTip": "APICatalogo\\Models\\Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T19:05:21.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
               "ToolTip": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
               "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T18:37:54.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Program.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
               "ToolTip": "C:\\ProjetosFelipe\\APICatalogo\\APICatalogo\\Program.cs",
               "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T13:44:17.597Z",
               "EditorCaption": ""
